@@ -1,0 +1,14 @@
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\bin\Debug\4-6-2023.exe.config
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\bin\Debug\4-6-2023.exe
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\bin\Debug\4-6-2023.pdb
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\_4_6_2023.Form1.resources
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\_4_6_2023.Properties.Resources.resources
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.exe
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\4-6-2023.pdb
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\_4_6_2023.formkecil.resources
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\_4_6_2023.Form3.resources
+C:\Users\Olan\source\repos\4-6-2023\4-6-2023\obj\Debug\_4_6_2023.FormFud.resources
